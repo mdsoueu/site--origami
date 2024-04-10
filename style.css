@@ -1,0 +1,26 @@
+html {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(255, 228, 196);
+}
+
+span {
+    font-style: italic;
+    background-color: rgb(207, 179, 145);
+}
+
+p {
+    font-size: 15px;
+    color: black;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.favoritos {
+    color: darkblue;
+    background-color: rgb(243, 199, 145);
+}
