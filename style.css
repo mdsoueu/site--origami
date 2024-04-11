@@ -3,8 +3,31 @@ html {
 }
 
 h1 {
+    display: block;
     text-align: center;
     background-color: rgb(255, 228, 196);
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+article {
+    display: inline-block;
+    padding: 6px;
+    margin: 8px;
+}
+.introducaoDoSite {
+    display: inline-block;
+    padding: 4px;
+    margin: 5px;
+}
+
+.origamisImagem {
+    display: block;
+    margin: 0px auto;
+    height: 200px;
 }
 
 span {
