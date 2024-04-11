@@ -1,0 +1,12 @@
+block - conteúdo ocupa toda tela 
+
+inline - ocupa só o tamanho do conteúdo
+
+inline-block - aqu eu consigo definir tamanho
+
+                    padding-top (espaço interno)     
+padding-left (espaço interno)               padding-right (espaço interno)  
+                    padding-bottom (espaço interno) 
+
+
+********
