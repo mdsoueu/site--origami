@@ -14,12 +14,12 @@ h2 {
 }
 
 article {
-    display: inline-block;
+    display: block;
     padding: 6px;
     margin: 8px;
 }
 .introducaoDoSite {
-    display: inline-block;
+    display: block;
     padding: 4px;
     margin: 5px;
 }
@@ -28,6 +28,15 @@ article {
     display: block;
     margin: 0px auto;
     height: 200px;
+}
+
+.tsuruParagrafo {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 50;
+    /* padding: 5px; */
+    text-align: justify;
+    margin: 5px;
 }
 
 span {
